@@ -1,0 +1,7 @@
+Credentials cache: API:19771
+        Principal: wfung@42.US.ORG
+
+  Issued                Expires               Principal
+Oct 25 20:17:05 2016  Oct 26 06:17:05 2016  krbtgt/42.US.ORG@42.US.ORG
+Oct 25 20:17:07 2016  Oct 26 06:17:05 2016  ldap/ldap-proxy.42.us.org@42.US.ORG
+Oct 25 21:43:27 2016  Oct 26 06:17:05 2016  host/vgs-fn1.42.us.org@42.US.ORG
